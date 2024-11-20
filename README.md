@@ -1,7 +1,5 @@
 # 🌸 Welcome to My GitHub! 🌸  
 
-![Header](https://user-images.githubusercontent.com/your-image-url/pink-header.png)  
-*(Add a custom header image with pink aesthetic)*  
 
 Hi there! I'm **Tien Dieu**, a Computer Science student and IT enthusiast working for the **City of Los Angeles**! 🖥️ I’m passionate about software development, problem-solving, and building projects that make a difference.  
 
