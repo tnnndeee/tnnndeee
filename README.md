@@ -11,7 +11,7 @@ Hi there! I'm **Tien Dieu**, a Computer Science student and IT enthusiast workin
 
 - 🌸 **Computer Science Student** @ CSULB  
 - 💻 **IT Support Technician** for the City of Los Angeles  
-- 🛠️ Building projects in **Python**, **Kotlin**, and **React Native**  
+- 🛠️ Building projects in **Python**, **Kotlin**, and **C++**  
 - 💖 Lover of clean code, cute designs, and creative solutions  
 - 🎨 Always adding a pop of pink to my work!  
 
